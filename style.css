@@ -4,9 +4,8 @@ body{}
 .nav-link{
 	font-size: 45px;
 	width:100%;
-	align-items: center;
-	justify-content: center;
-	word-spacing: 100px;
+	
+	
 }
 .bg-dark{
 	background-color: black !important;
