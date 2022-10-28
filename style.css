@@ -2,10 +2,7 @@
 *{}
 body{}
 .nav-link{
-	font-size: 40%;
-	width:100% !important;
-	margin-left:50px
-	position: relative;
+	font-size: 60px;
 }
 .bg-dark{
 	background-color: black !important;
