@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
 *{}
 body{}
-ul .nav-link{
+ul li a.nav-link{
+width:100%;
+display:flex;
 }
 .bg-dark{
 	background-color: black !important;
