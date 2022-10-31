@@ -3,7 +3,6 @@
 body{}
 ul li a.nav-link{
 width:100% !important;
-display:flex !important;
 }
 .bg-dark{
 	background-color: black !important;
