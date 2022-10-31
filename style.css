@@ -3,6 +3,8 @@
 body{}
 ul li a.nav-link{
 width:100% !important;
+justify-content:space-around;
+display:flex;
 }
 .bg-dark{
 	background-color: black !important;
