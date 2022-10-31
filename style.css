@@ -1,11 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
 *{}
 body{}
-ul li a.nav-link{
-width:100% !important;
-justify-content:space-around;
-display:flex;
-}
+
 .bg-dark{
 	background-color: black !important;
 }
@@ -15,6 +11,7 @@ display:flex;
 	font-family: 'Bungee Spice', cursive;
 	color: black;
 	font-size: 60px;
+       letter-spacing:6px;
 }
 .bg-image{
 	background-image: url(head.jpg);
