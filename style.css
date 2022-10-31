@@ -2,10 +2,6 @@
 *{}
 body{}
 ul .nav-link{
-	font-size: 60px;
-width:100%;
-display:flex;
-position:relative;
 }
 .bg-dark{
 	background-color: black !important;
