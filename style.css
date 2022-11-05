@@ -1,9 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
 *{}
 body{}
+.nav-link{
+display:flex;
+justify-content: space-around !important;
+width:100%;
+font-size:60px;
+}
 
 .bg-dark{
 	background-color: black !important;
+}
+.btn{
+border-radius:25px !important;
 }
 .navbar-brand{
 	margin-left: 50%;
